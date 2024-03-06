@@ -1,0 +1,14 @@
+D:\Study\Semester 2\Object Oriented Programming\Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.csproj.AssemblyReference.cache
+D:\Study\Semester 2\Object Oriented Programming\Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\Object Oriented Programming\Week 5\PointProblem\PointProblem\bin\Debug\PointProblem.exe.config
+D:\Study\Semester 2\Object Oriented Programming\Week 5\PointProblem\PointProblem\bin\Debug\PointProblem.exe
+D:\Study\Semester 2\Object Oriented Programming\Week 5\PointProblem\PointProblem\bin\Debug\PointProblem.pdb
+D:\Study\Semester 2\Object Oriented Programming\Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.exe
+D:\Study\Semester 2\Object Oriented Programming\Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.pdb
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointProblem\PointProblem\bin\Debug\PointProblem.exe.config
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointProblem\PointProblem\bin\Debug\PointProblem.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointProblem\PointProblem\bin\Debug\PointProblem.pdb
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.csproj.AssemblyReference.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointProblem\PointProblem\obj\Debug\PointProblem.pdb
